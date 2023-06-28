@@ -1,0 +1,13 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=284d4d
+ro.build.version.ci=3
+ro.mot.build.guid=38981ad57abb608
+ro.mot.base_buildid=QPW30.61-21-18-7/86588
+ro.product.name=lake
+ro.product.system.name=lake
+ro.product.product.name=lake
+ro.mot.build.oem.product=lake
+ro.mot.build.customerid=retail
+ro.product.device=lake

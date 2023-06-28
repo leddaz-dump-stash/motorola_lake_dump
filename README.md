@@ -1,0 +1,14 @@
+# user 10 QPWS30.61-21-18-7-3 284d4d release-keys
+- manufacturer: motorola
+- platform: sdm660
+- codename: lake
+- flavor: user
+- release: 10
+- id: QPWS30.61-21-18-7-3
+- incremental: 284d4d
+- tags: release-keys
+- fingerprint: motorola/lake_retail/lake:10/QPWS30.61-21-18-7-3/284d4d:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-10-QPWS30.61-21-18-7-3-284d4d-release-keys
+- repo: motorola_lake_dump
